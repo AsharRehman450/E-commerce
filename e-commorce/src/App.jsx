@@ -1,0 +1,11 @@
+import React from "react";
+import AppRoutes from "./routes/Approutes";
+
+function App() {
+  return (
+    <AppRoutes/>
+  );
+}
+
+export default App;
+// fahad1@gmail.com password login

@@ -1,0 +1,126 @@
+const products = [
+  {
+    id: 1,
+    image: "image 7.svg",
+    name: "T-shirt with Tape Details",
+    image1: "Frame 35.svg",
+    price: 120,
+    description: "A stylish t-shirt with unique tape details.",
+  },
+  {
+    id: 2,
+    image: "Frame 33.svg",
+    name: "Skinny Fit Jeans",
+    image1: "Frame 39.svg",
+    price: 80,
+    description: "Comfortable skinny fit jeans for everyday wear.",
+  },
+  {
+    id: 3,
+    image: "Frame 34.svg",
+    name: "Chekerd Shirt",
+    image1: "Frame 35.svg",
+    price: 180,
+    description: "A trendy chekerd shirt for casual outings.",
+  },
+  {
+    id: 4,
+    image: "Frame 38.svg",
+    name: "Sleeve Striped T-shirt",
+    image1: "Frame 35.svg",
+    price: 100,
+    description: "A stylish sleeve striped t-shirt for a modern look.",
+  },
+  {
+  id: 5,
+  image:"Frame 38 (1).svg",
+  name: "Denim Jacket",
+   image1: "Frame 35.svg",
+   price:150,
+  
+},
+{
+  id: 6,
+ image: "Frame 38.svg",
+    name: "Sleeve Striped T-shirt",
+    image1: "Frame 35.svg",
+    price: 100,
+    description: "A stylish sleeve striped t-shirt for a modern look.",
+
+},
+{
+  id: 7,
+  image: "Frame 34 (1).svg",
+  name: "Graphic T-shirt",
+  image1: "Frame 35.svg",
+  price:90,
+
+},
+
+{
+  id: 8,
+     image: "Frame 34.svg",
+    name: "Chekerd Shirt",
+    image1: "Frame 39.svg",
+    price: 180,
+    description: "A trendy chekerd shirt for casual outings.",
+},
+{
+  id: 9,
+     image: "Frame 32.svg",
+    name: "Chekerd Shirt",
+    image1: "Frame 35.svg",
+    price: 250,
+    description: "A trendy chekerd shirt for casual outings.",
+},
+{
+  id: 10,
+     image: "Frame 32 (1).svg",
+    name: "Chekerd Shirt",
+    image1: "Frame 39.svg",
+    price: 250,
+    description: "A trendy chekerd shirt for casual outings.",
+},
+{
+  id: 11,
+     image: "Frame 34 (1).svg",
+    name: "Chekerd Shirt",
+    image1: "Frame 39.svg",
+    price: 250,
+    description: "A trendy chekerd shirt for casual outings.",
+},
+{
+  id: 12,
+     image: "Frame 32.svg",
+    name: "Chekerd Shirt",
+    image1: "Frame 35.svg",
+    price: 250,
+    description: "A trendy chekerd shirt for casual outings.",
+},
+{
+  id: 13,
+     image: "Frame 34.svg",
+    name: "Chekerd Shirt",
+    image1: "Frame 39.svg",
+    price: 180,
+    description: "A trendy chekerd shirt for casual outings.",
+},
+  {
+  id: 14,
+  image:"Frame 38 (1).svg",
+  name: "Denim Jacket",
+   image1: "Frame 35.svg",
+   price:150,
+  
+},
+{
+    id: 15,
+    image: "Frame 33.svg",
+    name: "Skinny Fit Jeans",
+    image1: "Frame 39.svg",
+    price: 80,
+    description: "Comfortable skinny fit jeans for everyday wear.",
+  },
+];
+
+export default products;

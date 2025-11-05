@@ -1,0 +1,36 @@
+@import url('https://fonts.cdnfonts.com/css/integral-cf');
+@import "tailwindcss";
+
+@theme {
+  --font-inter: 'Inter', sans-serif;
+  --font-roboto-slab-bold: Roboto Slab, sans-serif;
+  --font-rockwell-bold: Rockwell, sans-serif; 
+  --font-arvo-bold: Arvo, sans-serif;
+
+  --font-roboto-light: 'Roboto', sans-serif;
+  --font-helvetica-neue-light: 'Helvetica Neue', sans-serif;
+  --font-open-sans-light: 'Open Sans', sans-serif;
+  --font-lato-light: 'Lato', sans-serif;
+
+  --font-times-new-roman: 'Times New Roman', serif;
+  --font-georgia: 'Georgia', serif;
+  --font-merriweather: 'Merriweather', serif;
+  --font-playfair-display: 'Playfair Display', serif;
+
+  --font-poppins: 'Poppins', sans-serif;
+  --optima: 'Optima', 'Inter', 'sans-serif';
+
+  --font-versace: 'Didot', 'Playfair Display', serif;
+  --font-zara: 'Bodoni', 'Playfair Display', serif;
+  --font-gucci: 'Garamond', 'Sabon', 'Georgia', serif;
+  --font-prada: 'Engravers Roman', 'Bodoni XT', serif;
+  --font-calvin-klein: 'Avant Garde Gothic', 'Century Gothic', sans-serif;
+}
+
+.scroll-hidden {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+}
+.scroll-hidden::-webkit-scrollbar {
+  display: none; /* Chrome, Safari */
+}
